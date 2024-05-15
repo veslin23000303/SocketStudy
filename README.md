@@ -71,12 +71,12 @@ else:
 c.close()
 break
 ````
-CLIENT:
+## CLIENT:
 
 ![Screenshot 2024-05-15 094614](https://github.com/veslin23000303/SocketStudy/assets/151148539/e6a702ee-15a3-4b1b-ba5f-ed92ab62d006)
 
 
-SERVER
+## SERVER:
 
 ![Screenshot 2024-05-15 094623](https://github.com/veslin23000303/SocketStudy/assets/151148539/4fad0c09-c2e1-4993-9c00-acb56d96565c)
 
